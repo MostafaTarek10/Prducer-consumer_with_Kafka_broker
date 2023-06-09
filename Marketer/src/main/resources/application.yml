@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+topic:
+  name: t.customer
+
+
+spring:
+  kafka:
+    bootstrap-servers: kafka:29092'
